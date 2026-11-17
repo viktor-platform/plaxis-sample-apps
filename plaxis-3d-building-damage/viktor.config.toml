@@ -1,0 +1,4 @@
+app_type = "editor"
+python_version = "3.12"
+registered_name = "plaxis-3d-damage"
+worker_integrations = ["plaxis"]
